@@ -25,6 +25,12 @@ penultimate list =
             penultimate xs
 
 
+
+{- the following main function is being used as an example just to explore the
+   output of the function above
+-}
+
+
 main =
     case penultimate [ 1, 2, 3, 4 ] of
         Just element ->
