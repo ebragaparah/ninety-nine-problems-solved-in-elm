@@ -2,7 +2,7 @@
 
 Someday I decided to study some Elm. To achieve the mastery, there's nothing like
 exercising, right? So I created this repo where I can put my solutions of the
-**Ninety nine problem, solved in Elm**.
+[Ninety nine problem, solved in Elm] (https://johncrane.gitbooks.io/ninety-nine-elm-problems/).
 
 ## Problems
 
