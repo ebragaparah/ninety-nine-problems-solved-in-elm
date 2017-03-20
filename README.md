@@ -2,8 +2,8 @@
 
 Someday I decided to study some Elm. To achieve the mastery, there's nothing like
 exercising, right? So I created this repo where I can put my solutions of the
-(Ninety nine problem, solved in Elm)[https://johncrane.gitbooks.io/ninety-nine-elm-problems/].
-Please, give me feedbacks.
+[Ninety nine problem, solved in Elm](https://johncrane.gitbooks.io/ninety-nine-elm-problems/).
+Please, provide me some feedbacks.
 
 ## Problems
 
@@ -14,3 +14,6 @@ Please, give me feedbacks.
 
 3. Implement the function elementAt to return the n-th element of a list.
   The index is 1-relative, that is, the first element is at index 1.
+
+4. Elm provides the function List.length.
+See if you can implement it yourself.
