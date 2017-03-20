@@ -17,3 +17,6 @@ Please, provide me some feedbacks.
 
 4. Elm provides the function List.length.
 See if you can implement it yourself.
+
+5. Elm provides the function List.reverse to reverse the order of elements
+in a list. See if you can implement it.
