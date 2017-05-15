@@ -1,7 +1,7 @@
 module Main exposing (..)
 
 import Html exposing (text)
-import List exposing (take, drop, concat)
+import List exposing (take, drop)
 
 
 {-
@@ -18,7 +18,7 @@ dropAt position list =
         realPosition =
             (position - 1)
     in
-        concat [ (take realPosition list), (drop position list) ]
+        (take realPosition list) ++ (drop position list)
 
 
 
